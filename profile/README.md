@@ -1,4 +1,4 @@
 <div align="center" style="background:#ccc" width="50%" height="100%">
-  <img src="https://github.com/ResonanceM/.github/assets/28684401/f87d3230-41f5-437e-bd45-a1b075a072fb" />
+  <img src="https://github.com/ResonanceM/the-resonance/assets/28684401/652ee4f9-659b-4e56-846a-00949212a592)https://github.com/ResonanceM/the-resonance/assets/28684401/652ee4f9-659b-4e56-846a-00949212a592" />
 </div>
 
